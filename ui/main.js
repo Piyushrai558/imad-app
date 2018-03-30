@@ -5,6 +5,6 @@ element.innerHTML='piyush rai'
 //image property
 var img= document.getElementById('insta')
 img.onclick = function(){
-  img.style.marginup='500px'; 
+  img.style.marginleft='500px'; 
 };
 
